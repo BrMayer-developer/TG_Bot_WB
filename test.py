@@ -3,7 +3,7 @@ from telebot import types
 import requests
 import re
 
-bot = telebot.TeleBot("1165779184:AAELE6Gs19G6Yi-ARpCn3F883gz9816onNs")
+bot = telebot.TeleBot("")
 
 url = "https://wbxsearch.wildberries.ru/exactmatch/v2/common?query="
 url1 = "https://wbxcatalog-ru.wildberries.ru/"
